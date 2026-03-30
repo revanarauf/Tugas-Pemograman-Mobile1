@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Fintech Dark Theme Colors -->
+    <color name="bg_start">#0F2027</color>
+    <color name="bg_center">#203A43</color>
+    <color name="bg_end">#2C5364</color>
+
+    <color name="primary_blue">#2C5364</color>
+    <color name="accent_blue">#00D2FF</color>
+
+    <color name="text_hint">#9E9E9E</color>
+    <color name="error_red">#F44336</color>
+</resources>
