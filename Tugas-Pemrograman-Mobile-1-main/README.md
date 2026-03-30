@@ -170,7 +170,7 @@ Implemented requirements:
 
 # 👨‍💻 Author
 
-Aditya Beckham
+Revana Rauf
 
 Student Android Development Project
 
